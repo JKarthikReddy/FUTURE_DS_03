@@ -1,0 +1,22 @@
+
+Student_ID,Event_Name,Organization_Rating,Content_Rating,Engagement_Level,Venue_Rating,Speaker_Performance,Event_Duration,Recommendation,Feedback
+1,Tech Fest,5,4,High,5,5,3 hrs,Yes,Well organized and fun
+2,Sports Meet,4,3,Medium,4,3,2 hrs,Yes,Enjoyed the matches
+3,Cultural Night,3,5,Low,2,4,5 hrs,No,Too crowded
+4,Workshop,5,4,High,4,5,4 hrs,Yes,Very informative
+5,Guest Lecture,4,4,Medium,5,5,2 hrs,Yes,Inspirational talk
+6,Tech Fest,4,5,Medium,4,4,3 hrs,Yes,Great event
+7,Sports Meet,5,4,High,5,5,2 hrs,Yes,Good energy
+8,Cultural Night,3,3,Low,3,3,5 hrs,No,Not engaging
+9,Workshop,4,5,High,5,5,4 hrs,Yes,Hands-on learning
+10,Guest Lecture,5,4,Medium,4,5,2 hrs,Yes,Motivating session
+11,Tech Fest,5,4,Low,5,5,3 hrs,Yes,Amazing experience
+12,Sports Meet,4,5,High,4,4,2 hrs,Yes,Lots of fun
+13,Cultural Night,4,3,Medium,3,3,5 hrs,No,Could be better
+14,Workshop,3,4,Low,4,4,4 hrs,No,Less interactive
+15,Guest Lecture,5,5,High,5,5,2 hrs,Yes,Very well managed
+16,Tech Fest,4,4,Medium,4,5,3 hrs,Yes,Good initiative
+17,Sports Meet,5,5,High,5,5,2 hrs,Yes,Great participation
+18,Cultural Night,3,3,Low,2,3,5 hrs,No,Boring at times
+19,Workshop,5,5,High,5,5,4 hrs,Yes,Interesting workshop
+20,Guest Lecture,4,4,Medium,4,4,2 hrs,Yes,Loved the session
